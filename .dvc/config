@@ -1,0 +1,6 @@
+[core]
+    remote = fuentelocal
+['remote "fuentelocal"']
+    url = /tmp/dvcstore
+['remote "almacens3"']
+    url = s3://taller3-dvc-nicolenino29-2026
